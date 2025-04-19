@@ -38,7 +38,11 @@
 		{"id":"12f3aaf80b861fa7","type":"text","text":"Cutscene // telaport to upper cave post","x":7134,"y":-477,"width":250,"height":60,"color":"3"},
 		{"id":"738162a378e55d03","type":"text","text":"Some gasmiran bombers slip through the defences\nbombardment begains\n","x":7480,"y":-467,"width":260,"height":147},
 		{"id":"300e99bc6c60ceac","type":"text","text":"go to bomb shelter","x":7488,"y":-212,"width":250,"height":60},
-		{"id":"7da3f0282481b7a6","type":"text","text":"as the assult becomes more intense, it becomes clear the need to evacuate kingfisher stronghold.\nthe best place to regroup at is the  Alamein desert hideout located south of Custis  airfield.","x":7874,"y":-448,"width":446,"height":266}
+		{"id":"7da3f0282481b7a6","type":"text","text":"as the assult becomes more intense, it becomes clear the need to evacuate kingfisher stronghold.\nthe best place to regroup at is the  Alamein desert hideout located south of Custis  airfield.","x":7874,"y":-448,"width":446,"height":266},
+		{"id":"2061b6f5e9a09846","type":"text","text":"go to grand sentinel gate","x":8440,"y":-393,"width":255,"height":69},
+		{"id":"c4a642e4fb397a11","type":"text","text":"escape kingfisher stronghold via east tunnel. ","x":8780,"y":-390,"width":324,"height":63},
+		{"id":"1180f2ed8a441838","x":9206,"y":-412,"width":250,"height":60,"type":"text","text":"exit underneath river tower"},
+		{"id":"771d393c659a4308","x":9527,"y":-357,"width":250,"height":60,"type":"text","text":"cross Natchez bridge "}
 	],
 	"edges":[
 		{"id":"7b081e7c9abdf5db","fromNode":"ffb360c5353b0d67","fromSide":"right","toNode":"330e3d09ed114126","toSide":"left"},
@@ -88,6 +92,11 @@
 		{"id":"038887ef56f31008","fromNode":"1205414c5492e984","fromSide":"right","toNode":"12f3aaf80b861fa7","toSide":"left"},
 		{"id":"a6b7f144762b299a","fromNode":"12f3aaf80b861fa7","fromSide":"right","toNode":"738162a378e55d03","toSide":"left"},
 		{"id":"b62ff1f37b73b963","fromNode":"738162a378e55d03","fromSide":"bottom","toNode":"300e99bc6c60ceac","toSide":"top"},
-		{"id":"83a60471b1b299a1","fromNode":"738162a378e55d03","fromSide":"right","toNode":"7da3f0282481b7a6","toSide":"left"}
+		{"id":"83a60471b1b299a1","fromNode":"738162a378e55d03","fromSide":"right","toNode":"7da3f0282481b7a6","toSide":"left"},
+		{"id":"eec63aba00e6b214","fromNode":"300e99bc6c60ceac","fromSide":"right","toNode":"7da3f0282481b7a6","toSide":"left"},
+		{"id":"92bc89c440d7de0e","fromNode":"7da3f0282481b7a6","fromSide":"right","toNode":"2061b6f5e9a09846","toSide":"left"},
+		{"id":"1dc4062f6fb81018","fromNode":"2061b6f5e9a09846","fromSide":"right","toNode":"c4a642e4fb397a11","toSide":"left"},
+		{"id":"dd70570aeed482a8","fromNode":"c4a642e4fb397a11","fromSide":"right","toNode":"1180f2ed8a441838","toSide":"left"},
+		{"id":"d9fc2a9d3c85f2b8","fromNode":"771d393c659a4308","fromSide":"left","toNode":"1180f2ed8a441838","toSide":"right"}
 	]
 }

@@ -11,17 +11,14 @@
             "id": "9797730295375f63",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "game design main flow.canvas",
-                "viewState": {
-                  "x": -146.01891424783628,
-                  "y": -580.0737197194059,
-                  "zoom": -1.047478793941816
-                }
+                "file": "black belt achieved.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "game design main flow"
+              "icon": "lucide-file",
+              "title": "black belt achieved"
             }
           },
           {
@@ -71,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,7 +156,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -196,9 +196,10 @@
   },
   "active": "9797730295375f63",
   "lastOpenFiles": [
+    "game design main flow.canvas",
+    "black belt achieved.md",
     "BlackBeltGame",
     "Realms.md",
-    "game design main flow.canvas",
     "Game Overview.md",
     "BMO/Profiles/BMO.md",
     "Welcome.md",

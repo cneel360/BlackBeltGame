@@ -11,14 +11,17 @@
             "id": "9797730295375f63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "black belt achieved.md",
-                "mode": "source",
-                "source": false
+                "file": "game design main flow.canvas",
+                "viewState": {
+                  "x": 10465.760109749945,
+                  "y": -329.2336720425841,
+                  "zoom": -0.6714438037160537
+                }
               },
-              "icon": "lucide-file",
-              "title": "black belt achieved"
+              "icon": "lucide-layout-dashboard",
+              "title": "game design main flow"
             }
           },
           {
@@ -196,8 +199,8 @@
   },
   "active": "9797730295375f63",
   "lastOpenFiles": [
-    "game design main flow.canvas",
     "black belt achieved.md",
+    "game design main flow.canvas",
     "BlackBeltGame",
     "Realms.md",
     "Game Overview.md",

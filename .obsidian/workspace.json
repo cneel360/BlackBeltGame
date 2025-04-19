@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "31c1003a885cbfa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a575b3670bff96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9797730295375f63",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "game design main flow.canvas",
+                "viewState": {
+                  "x": -146.01891424783628,
+                  "y": -580.0737197194059,
+                  "zoom": -1.047478793941816
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "game design main flow"
+            }
+          },
+          {
+            "id": "48fffed55a48faf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Overview"
+            }
+          },
+          {
+            "id": "c03d4ea5be96c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Realms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aad7185f487f43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bffc7d0e7eeb57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "225d48503339a50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bbce068476379ed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6d3ce31da3458c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c7e3faf06999dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d58f8456cd4c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd7789deacf56b1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "game design main flow.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for game design main flow"
+            }
+          },
+          {
+            "id": "ce601e8cf00a5fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "game design main flow.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from game design main flow"
+            }
+          },
+          {
+            "id": "644721c5efb0542d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46f34757de4a8b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "game design main flow.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of game design main flow"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bmo-chatbot:BMO Chatbot": false
+    }
+  },
+  "active": "9797730295375f63",
+  "lastOpenFiles": [
+    "BlackBeltGame",
+    "Realms.md",
+    "game design main flow.canvas",
+    "Game Overview.md",
+    "BMO/Profiles/BMO.md",
+    "Welcome.md",
+    "BMO/Profiles",
+    "BMO",
+    "Names.md"
+  ]
+}

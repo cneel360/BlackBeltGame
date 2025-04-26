@@ -1,6 +1,6 @@
 
 
-tutorial Zone: Plateau of  Portchester 
+tutorial Zone:  Kingfisher Stronmghold
 
 ###  Seaside/ oceanic
 
@@ -24,6 +24,12 @@ Urbe plemmet river
 Thunderhead Sound
 
 Tunia lake 
+
+# provinces 
+
+Aliemen 
+pebble
+
 
 
 

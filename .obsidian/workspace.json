@@ -16,7 +16,7 @@
                 "file": "Side Missions/AIR BARON.canvas",
                 "viewState": {
                   "x": 1822,
-                  "y": 42.5,
+                  "y": -313.7862068965517,
                   "zoom": -1.9377340113741577
                 }
               },
@@ -199,11 +199,11 @@
   },
   "active": "9797730295375f63",
   "lastOpenFiles": [
-    "Realms.md",
-    "Side Missions/AIR BARON.canvas",
-    "Side Missions",
     "game design main flow.canvas",
     "black belt achieved.md",
+    "Side Missions/AIR BARON.canvas",
+    "Realms.md",
+    "Side Missions",
     "BlackBeltGame",
     "Game Overview.md",
     "BMO/Profiles/BMO.md",

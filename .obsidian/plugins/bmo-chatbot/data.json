@@ -62,7 +62,17 @@
       "min_p": "0.00",
       "keep_alive": ""
     },
-    "ollamaModels": []
+    "ollamaModels": [
+      "dolphin-phi:latest",
+      "mxbai-embed-large:latest",
+      "llama3.2:1b",
+      "codegemma:2b",
+      "tinyllama:latest",
+      "hippie-ultimate:latest",
+      "war-chief:latest",
+      "phi3:3.8b",
+      "llama3:latest"
+    ]
   },
   "RESTAPIURLConnection": {
     "APIKey": "",

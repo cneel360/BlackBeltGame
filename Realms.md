@@ -1,6 +1,6 @@
 
 
-tutorial Zone:  Kingfisher Stronmghold
+tutorial Zone:  Kingfisher Stronghold
 
 ###  Seaside/ oceanic
 

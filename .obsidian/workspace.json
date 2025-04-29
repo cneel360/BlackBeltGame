@@ -8,38 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9797730295375f63",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Side Missions/AIR BARON.canvas",
-                "viewState": {
-                  "x": 1822,
-                  "y": -313.7862068965517,
-                  "zoom": -1.9377340113741577
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AIR BARON"
-            }
-          },
-          {
-            "id": "48fffed55a48faf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Overview"
-            }
-          },
-          {
-            "id": "c03d4ea5be96c5f7",
+            "id": "b6543b70cd0eea2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -125,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game design main flow.canvas",
+                "file": "Realms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for game design main flow"
+              "title": "Backlinks for Realms"
             }
           },
           {
@@ -144,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game design main flow.canvas",
+                "file": "Realms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from game design main flow"
+              "title": "Outgoing links from Realms"
             }
           },
           {
@@ -159,9 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -173,14 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game design main flow.canvas"
+                "file": "Realms.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of game design main flow"
+              "title": "Outline of Realms"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,12 +162,13 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "9797730295375f63",
+  "active": "b6543b70cd0eea2c",
   "lastOpenFiles": [
+    "Controls.md",
+    "Realms.md",
+    "Side Missions/AIR BARON.canvas",
     "game design main flow.canvas",
     "black belt achieved.md",
-    "Side Missions/AIR BARON.canvas",
-    "Realms.md",
     "Side Missions",
     "BlackBeltGame",
     "Game Overview.md",

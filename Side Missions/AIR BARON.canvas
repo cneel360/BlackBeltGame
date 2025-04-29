@@ -2,16 +2,16 @@
 	"nodes":[
 		{"id":"a9b96c70226eea33","type":"text","text":"SIDE MISSION: *Air Baron* :\nGiven to you by resistance travel protection officer \nGo to the Airfield and steal a fighter. then fly it to  Stanley on Santa Carlos Island. shoot down the Gasmirian Aircraft circling Santa Carlos. Once completed, shoot the Airfield at pebble island before landing to refuel at Hermes Island.","x":-400,"y":20,"width":549,"height":280,"color":"2"},
 		{"id":"65b35b8fb71e5bb6","type":"text","text":"go to Custis Airfeild ","x":300,"y":40,"width":250,"height":60},
-		{"id":"f18e91d60e829bab","x":685,"y":6,"width":250,"height":60,"type":"text","text":"Enter Hanger *Camano 8-16*  \n"},
-		{"id":"6af6ea2b841f8234","x":1016,"y":-15,"width":250,"height":60,"type":"text","text":"lift the hanger door"},
-		{"id":"80ef5868ecceacc6","x":1361,"y":-38,"width":250,"height":60,"type":"text","text":"steal aircraft an taxi onto runway "},
-		{"id":"535ae2e3cf0b7d7d","x":1696,"y":-68,"width":250,"height":60,"type":"text","text":"take off"},
-		{"id":"23323110fa067345","x":2010,"y":-108,"width":290,"height":93,"type":"text","text":"Once in air head SE torwards San Carlos Island .\n "},
-		{"id":"ddb8eb6716ef84a8","x":2393,"y":-138,"width":267,"height":77,"type":"text","text":"pass over Queens River Lighthouse 3  Which shines in direction of San Carlos.  "},
-		{"id":"c8b78774f90d76e1","x":2736,"y":-159,"width":284,"height":60,"type":"text","text":"pass over Kingfisher, where they try to shoot you down"},
-		{"id":"44e64996d2dfd75f","x":3108,"y":-177,"width":250,"height":60,"type":"text","text":"//(when you arrive at Sa Carlos) \n Find the Aircraft and shoot it down"},
-		{"id":"c20bfab2135a7063","x":3456,"y":-199,"width":250,"height":60,"type":"text","text":"Fly north to Hermes Island, and land"},
-		{"id":"b3902e22325074f7","x":3794,"y":-215,"width":250,"height":60,"color":"2","type":"text","text":"Mission Complete"}
+		{"id":"f18e91d60e829bab","type":"text","text":"Enter Hanger *Camano 8-16*  \n","x":685,"y":6,"width":250,"height":60},
+		{"id":"6af6ea2b841f8234","type":"text","text":"lift the hanger door","x":1016,"y":-15,"width":250,"height":60},
+		{"id":"80ef5868ecceacc6","type":"text","text":"steal aircraft an taxi onto runway ","x":1361,"y":-38,"width":250,"height":60},
+		{"id":"535ae2e3cf0b7d7d","type":"text","text":"take off","x":1696,"y":-68,"width":250,"height":60},
+		{"id":"23323110fa067345","type":"text","text":"Once in air head SE torwards San Carlos Island .\n ","x":2010,"y":-108,"width":290,"height":93},
+		{"id":"ddb8eb6716ef84a8","type":"text","text":"pass over Queens River Lighthouse 3  Which shines in direction of San Carlos.  ","x":2393,"y":-138,"width":267,"height":77},
+		{"id":"c8b78774f90d76e1","type":"text","text":"pass over Kingfisher, where they try to shoot you down","x":2736,"y":-159,"width":284,"height":60},
+		{"id":"44e64996d2dfd75f","type":"text","text":"//(when you arrive at Sa Carlos) \n Find the Aircraft and shoot it down","x":3108,"y":-177,"width":250,"height":60,"color":"5"},
+		{"id":"c20bfab2135a7063","type":"text","text":"Fly north to Hermes Island, and land","x":3456,"y":-199,"width":250,"height":60},
+		{"id":"b3902e22325074f7","type":"text","text":"Mission Complete","x":3794,"y":-215,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"5f222c67532e7a2f","fromNode":"a9b96c70226eea33","fromSide":"right","toNode":"65b35b8fb71e5bb6","toSide":"left"},

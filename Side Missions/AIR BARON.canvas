@@ -9,7 +9,7 @@
 		{"id":"23323110fa067345","type":"text","text":"Once in air head SE torwards San Carlos Island .\n ","x":2010,"y":-108,"width":290,"height":93},
 		{"id":"ddb8eb6716ef84a8","type":"text","text":"pass over Queens River Lighthouse 3  Which shines in direction of San Carlos.  ","x":2393,"y":-138,"width":267,"height":77},
 		{"id":"c8b78774f90d76e1","type":"text","text":"pass over Kingfisher, where they try to shoot you down","x":2736,"y":-159,"width":284,"height":60},
-		{"id":"44e64996d2dfd75f","type":"text","text":"//(when you arrive at Sa Carlos) \n Find the Aircraft and shoot it down","x":3108,"y":-177,"width":250,"height":60,"color":"5"},
+		{"id":"44e64996d2dfd75f","type":"text","text":"//(when you arrive at SanCarlos) \n Find the Aircraft and shoot it down","x":3108,"y":-177,"width":250,"height":60,"color":"5"},
 		{"id":"c20bfab2135a7063","type":"text","text":"Fly north to Hermes Island, and land","x":3456,"y":-199,"width":250,"height":60},
 		{"id":"b3902e22325074f7","type":"text","text":"Mission Complete","x":3794,"y":-215,"width":250,"height":60,"color":"2"}
 	],

@@ -66,7 +66,8 @@
 		{"id":"1c7e268fa1872eda","type":"text","text":"Stash weapons\n","x":17100,"y":-391,"width":250,"height":60},
 		{"id":"a61becc67b4a3c28","type":"text","text":"Complete mission *Arm the resistance*","x":17400,"y":-391,"width":250,"height":60,"color":"2"},
 		{"id":"30b8d076c4b9cf4d","type":"text","text":"Recieve debriefing of latest war news;","x":17860,"y":-404,"width":250,"height":60},
-		{"id":"40eaf02f72b05544","x":18200,"y":-640,"width":320,"height":120,"color":"2","type":"text","text":"AIR BARON : SM [obsidian://open?vault=BlackBeltGame&file=Side%20Missions%2FAIR%20BARON.canvas]\n\n"}
+		{"id":"40eaf02f72b05544","type":"text","text":"AIR BARON : SM \n[[AIR BARON.canvas|AIR BARON]]","x":18220,"y":-640,"width":320,"height":120,"color":"2"},
+		{"id":"fd3565ec4f200fa6","type":"text","text":"","x":18241,"y":-448,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7b081e7c9abdf5db","fromNode":"ffb360c5353b0d67","fromSide":"right","toNode":"330e3d09ed114126","toSide":"left"},
@@ -145,6 +146,8 @@
 		{"id":"c595199204ced2f4","fromNode":"f1b082338a7dab96","fromSide":"right","toNode":"0629dab7c41da4fc","toSide":"left"},
 		{"id":"152ffb25103a3897","fromNode":"0629dab7c41da4fc","fromSide":"right","toNode":"1c7e268fa1872eda","toSide":"left"},
 		{"id":"fff9233468f18ed8","fromNode":"1c7e268fa1872eda","fromSide":"right","toNode":"a61becc67b4a3c28","toSide":"left"},
-		{"id":"ed445c15fb1aa9c4","fromNode":"a61becc67b4a3c28","fromSide":"right","toNode":"30b8d076c4b9cf4d","toSide":"left"}
+		{"id":"ed445c15fb1aa9c4","fromNode":"a61becc67b4a3c28","fromSide":"right","toNode":"30b8d076c4b9cf4d","toSide":"left"},
+		{"id":"a00f21a2cd1dc4ea","fromNode":"40eaf02f72b05544","fromSide":"left","toNode":"30b8d076c4b9cf4d","toSide":"right"},
+		{"id":"ba9b06878c615977","fromNode":"30b8d076c4b9cf4d","fromSide":"right","toNode":"fd3565ec4f200fa6","toSide":"left"}
 	]
 }

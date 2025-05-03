@@ -11,14 +11,17 @@
             "id": "b6543b70cd0eea2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Realms.md",
-                "mode": "source",
-                "source": false
+                "file": "High level overview.canvas",
+                "viewState": {
+                  "x": 445.2428830459604,
+                  "y": 216.48520743686498,
+                  "zoom": -0.3425925699869792
+                }
               },
-              "icon": "lucide-file",
-              "title": "Realms"
+              "icon": "lucide-layout-dashboard",
+              "title": "High level overview"
             }
           }
         ]
@@ -40,7 +43,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms.md",
+                "file": "High level overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Realms"
+              "title": "Backlinks for High level overview"
             }
           },
           {
@@ -164,18 +168,20 @@
   },
   "active": "b6543b70cd0eea2c",
   "lastOpenFiles": [
-    "Controls.md",
-    "Realms.md",
-    "Side Missions/AIR BARON.canvas",
     "game design main flow.canvas",
+    "Game Overview.md",
+    "Names.md",
+    "Need to know.md",
+    "Realms.md",
+    "High level overview.canvas",
     "black belt achieved.md",
+    "Welcome.md",
+    "Controls.md",
+    "Side Missions/AIR BARON.canvas",
     "Side Missions",
     "BlackBeltGame",
-    "Game Overview.md",
     "BMO/Profiles/BMO.md",
-    "Welcome.md",
     "BMO/Profiles",
-    "BMO",
-    "Names.md"
+    "BMO"
   ]
 }

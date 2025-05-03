@@ -1,15 +1,17 @@
 {
 	"nodes":[
 		{"id":"9abe6bebd0310f2a","type":"text","text":"Start","x":-740,"y":140,"width":250,"height":60},
-		{"id":"d53940c6d1ddbac1","x":-373,"y":94,"width":250,"height":60,"type":"text","text":"Tutorial"},
-		{"id":"2513f950586346b5","x":-51,"y":72,"width":250,"height":60,"type":"text","text":"leave tutorial"},
-		{"id":"163335b71207c8d5","x":250,"y":49,"width":250,"height":60,"type":"text","text":"Smuggle Wepons"},
-		{"id":"70c5cbde1c427bf6","x":575,"y":-1,"width":250,"height":60,"type":"text","text":"Join with Rebels in Desert"}
+		{"id":"d53940c6d1ddbac1","type":"text","text":"Tutorial","x":-373,"y":94,"width":250,"height":60},
+		{"id":"2513f950586346b5","type":"text","text":"leave tutorial","x":-51,"y":72,"width":250,"height":60},
+		{"id":"163335b71207c8d5","type":"text","text":"Smuggle Wepons","x":250,"y":49,"width":250,"height":60},
+		{"id":"70c5cbde1c427bf6","type":"text","text":"Join with Rebels in Desert","x":575,"y":-1,"width":250,"height":60},
+		{"id":"473d7a59d2c1a4f0","x":927,"y":-16,"width":250,"height":60,"type":"text","text":"Recapture Fort Halsted"}
 	],
 	"edges":[
 		{"id":"c9866baf152a2ee7","fromNode":"9abe6bebd0310f2a","fromSide":"right","toNode":"d53940c6d1ddbac1","toSide":"left"},
 		{"id":"d819c14843f78f15","fromNode":"d53940c6d1ddbac1","fromSide":"right","toNode":"2513f950586346b5","toSide":"left"},
 		{"id":"d32743f3b5101c2a","fromNode":"2513f950586346b5","fromSide":"right","toNode":"163335b71207c8d5","toSide":"left"},
-		{"id":"3c012390996d532f","fromNode":"163335b71207c8d5","fromSide":"right","toNode":"70c5cbde1c427bf6","toSide":"left"}
+		{"id":"3c012390996d532f","fromNode":"163335b71207c8d5","fromSide":"right","toNode":"70c5cbde1c427bf6","toSide":"left"},
+		{"id":"477f3c090afca86e","fromNode":"70c5cbde1c427bf6","fromSide":"right","toNode":"473d7a59d2c1a4f0","toSide":"left"}
 	]
 }

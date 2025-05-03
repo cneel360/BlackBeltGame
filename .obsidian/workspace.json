@@ -11,17 +11,14 @@
             "id": "b6543b70cd0eea2c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "High level overview.canvas",
-                "viewState": {
-                  "x": 445.2428830459604,
-                  "y": 216.48520743686498,
-                  "zoom": -0.3425925699869792
-                }
+                "file": "Need to know.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "High level overview"
+              "icon": "lucide-file",
+              "title": "Need to know"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High level overview.canvas",
+                "file": "Need to know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for High level overview"
+              "title": "Backlinks for Need to know"
             }
           },
           {
@@ -153,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,16 +166,16 @@
   },
   "active": "b6543b70cd0eea2c",
   "lastOpenFiles": [
-    "game design main flow.canvas",
-    "Game Overview.md",
-    "Names.md",
-    "Need to know.md",
-    "Realms.md",
     "High level overview.canvas",
-    "black belt achieved.md",
-    "Welcome.md",
+    "game design main flow.canvas",
     "Controls.md",
+    "Realms.md",
+    "Welcome.md",
     "Side Missions/AIR BARON.canvas",
+    "Names.md",
+    "Game Overview.md",
+    "Need to know.md",
+    "black belt achieved.md",
     "Side Missions",
     "BlackBeltGame",
     "BMO/Profiles/BMO.md",

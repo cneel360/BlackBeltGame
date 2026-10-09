@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"cb4b908d7d128e4b","x":-120,"y":-140,"width":250,"height":60,"type":"text","text":"Well its 'bout time "},
+		{"id":"295232f754254021","x":200,"y":-140,"width":250,"height":60,"type":"text","text":"you were sure smacked up "},
+		{"id":"d6d177f9ca49b248","x":622,"y":-241,"width":250,"height":60,"color":"4","type":"text","text":"what is happening\n"},
+		{"id":"72b076a35eee6242","x":540,"y":-97,"width":250,"height":60,"color":"4","type":"text","text":"where am I"},
+		{"id":"d93316441ce1d2c5","x":938,"y":-241,"width":250,"height":60,"type":"text","text":"we are surrounded, outmanned, outgunned, but not out fought"},
+		{"id":"561dd41f81901268","x":1274,"y":-258,"width":246,"height":118,"type":"text","text":"The long and short of it is every man is expected to do his duty"},
+		{"id":"d79f1aee95176b6a","x":1594,"y":-242,"width":250,"height":60,"type":"text","text":"the plan is to hold out as long as possible"},
+		{"id":"1f13eb760eb46fc5","x":1928,"y":-270,"width":250,"height":60,"color":"4","type":"text","text":"Sir, we if we are totally outnumbered, how will we win"},
+		{"id":"55fbeb945017ddbe","x":2241,"y":-279,"width":250,"height":60,"type":"text","text":" Those Cowards... They are many in numbers, but few in men"},
+		{"id":"fe772d018dd37493","x":1928,"y":-120,"width":250,"height":60,"color":"4","type":"text","text":"understood Sir. where do you need me"},
+		{"id":"2ca566b4993dd517","x":2570,"y":-294,"width":250,"height":60,"type":"text","text":"they want this stronghold ...   they will  have to come and take it"},
+		{"id":"5e66ab5d4e53a548","x":2322,"y":-147,"width":250,"height":60,"type":"text","text":"The enemy is preparing to attack There are 4 artillery guns that will be nessasarry to defend until we can slip into the resistance"},
+		{"id":"da69a25f7f2c3d4d","x":840,"y":-37,"width":250,"height":60,"type":"text","text":"His imperial majesty's last stronghold, Fort Kingfisher."}
+	],
+	"edges":[
+		{"id":"eb4364ecfbe95c54","fromNode":"cb4b908d7d128e4b","fromSide":"right","toNode":"295232f754254021","toSide":"left"},
+		{"id":"516163b5a8e95fae","fromNode":"295232f754254021","fromSide":"right","toNode":"72b076a35eee6242","toSide":"left"},
+		{"id":"5919ebd580ddee3d","fromNode":"295232f754254021","fromSide":"right","toNode":"d6d177f9ca49b248","toSide":"left"},
+		{"id":"f8e9ab8dc718b36f","fromNode":"72b076a35eee6242","fromSide":"right","toNode":"da69a25f7f2c3d4d","toSide":"left"},
+		{"id":"2c856f0e3cb4bf16","fromNode":"da69a25f7f2c3d4d","fromSide":"top","toNode":"d6d177f9ca49b248","toSide":"bottom"},
+		{"id":"3015b7ab94fedf07","fromNode":"d6d177f9ca49b248","fromSide":"right","toNode":"d93316441ce1d2c5","toSide":"left"},
+		{"id":"c561c2c913ec1ba9","fromNode":"d93316441ce1d2c5","fromSide":"right","toNode":"561dd41f81901268","toSide":"left"},
+		{"id":"bceab14e0e75d17e","fromNode":"561dd41f81901268","fromSide":"right","toNode":"d79f1aee95176b6a","toSide":"left"},
+		{"id":"644e9eb3df0d1d30","fromNode":"d79f1aee95176b6a","fromSide":"right","toNode":"1f13eb760eb46fc5","toSide":"left"},
+		{"id":"e5a315276d0c5284","fromNode":"1f13eb760eb46fc5","fromSide":"right","toNode":"55fbeb945017ddbe","toSide":"left"},
+		{"id":"4d60088cd41dbb05","fromNode":"55fbeb945017ddbe","fromSide":"right","toNode":"2ca566b4993dd517","toSide":"left"},
+		{"id":"846f8fb58bded5f2","fromNode":"2ca566b4993dd517","fromSide":"bottom","toNode":"fe772d018dd37493","toSide":"top"},
+		{"id":"38dc3439c3a5832e","fromNode":"fe772d018dd37493","fromSide":"right","toNode":"5e66ab5d4e53a548","toSide":"left"},
+		{"id":"6057fea688a43fc7","fromNode":"d79f1aee95176b6a","fromSide":"right","toNode":"fe772d018dd37493","toSide":"left"}
+	]
+}
